@@ -1,2 +1,2 @@
 # Projeto1
-### Isabelle e Natália
+### Isabelle, Natália e Maia
