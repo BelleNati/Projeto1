@@ -1,2 +1,8 @@
 # Projeto1 - Classificador Naive Bayes
-### Isabelle, Natália e Maia
+### Integrantes:
+  *  Isabelle Moschini Murollo
+  *  Maia Fleider
+  *  Natália Queiroz Menezes Carreras
+  
+##### Esperamos que gostem!
+  
